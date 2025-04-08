@@ -65,9 +65,9 @@ Uses OpenCV as driver
 	
 	Project uses `OpenCV` so you need to install it first:
 
-	```bash	
+	```bash
 	$ sudo apt update
 	$ sudo apt-get install libopencv-dev
-	```		
+	```
 
 
